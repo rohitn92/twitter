@@ -1,0 +1,12 @@
+{
+	"name": "twitter",
+	"version": "0.0.1",
+	"description": "twitter clone",
+	"dependencies": {
+		"express": "*",
+		"jade": "*",
+		"mysql": "*",
+		"body-parser" : "*"
+	}
+
+}
