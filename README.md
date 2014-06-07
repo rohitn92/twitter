@@ -1,3 +1,15 @@
+Setup steps:
+
+Install Node.js and wamp server (or any server and mysql)
+
+Give the following commands on the terminal - (run git bash as admin on windows)-
+npm install
+
+to run, give command-
+node server.js
+
+
+
 MySQL config
 
 Database name: twitter_db
